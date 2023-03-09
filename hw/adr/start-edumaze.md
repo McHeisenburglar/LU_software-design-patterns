@@ -1,6 +1,4 @@
-# Decision record template by Michael Nygard
-
-# Command-line
+# Command-line prompts for Edu-Maze
 
 ## Status
 
